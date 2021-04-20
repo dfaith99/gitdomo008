@@ -20,6 +20,7 @@ public class AjaxServlet extends HttpServlet {
         out.print(str);
         System.out.println("str="+str);
         System.out.println("str="+str);
+        System.out.println("str="+str);
     }
 
     @Override
